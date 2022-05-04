@@ -1,4 +1,4 @@
-# Author: Moiz Kharodawala, 500968133
+# Author: Moiz Kharodawala
 
 # Necessary Import
 import random
